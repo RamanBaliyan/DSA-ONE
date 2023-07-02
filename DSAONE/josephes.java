@@ -9,5 +9,7 @@ class josephes{
 public static void main(String[] args) {
     System.out.println(jos(5,3));
 
+
 }
+k
 }
